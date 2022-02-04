@@ -1,4 +1,4 @@
-# research_laboratory
+# Research laboratory :man_scientist:
 > Outline a brief description of your project.
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
@@ -25,9 +25,10 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Python - version 3.8.10 
+- poetry - version 1.1.12
+- django - version 4.0.2
+- django-environ - version 4.8.1
 
 
 ## Features
