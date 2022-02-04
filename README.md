@@ -68,8 +68,8 @@ Room for improvement:
 - Improvement to be done 2
 
 To do:
-- [] Add DockerFile and docker-compose
-- [] Add Class diagramm(UML)
+- [ ] Add DockerFile and docker-compose
+- [ ] Add Class diagramm(UML)
 
 
 ## Acknowledgements
