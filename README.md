@@ -68,8 +68,8 @@ Room for improvement:
 - Improvement to be done 2
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- [] Add DockerFile and docker-compose
+- [] Add Class diagramm(UML)
 
 
 ## Acknowledgements
